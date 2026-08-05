@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Olivia personal assistant"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Olivia personal assistant"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Olivia"
+    }
+  ]
+}
